@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="buttonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#757575</item>
+        <item name="android:fontFamily">@font/opensan</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="buttonStyleLight">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#7CAAD2</item>
+        <item name="android:fontFamily">@font/opensan</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="buttonStyleGreen">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">#4287f5</item>
+        <item name="android:fontFamily">@font/opensan</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="statusBarColor" parent="Theme.AppCompat">
+        <item name="colorPrimary">#FFB74D</item>
+    </style>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero">0</string>
+    <string name="AC">AC</string>
+    <string name="add">+</string>
+    <string name="equal">=</string>
+    <string name="multi">x</string>
+    <string name="sub">-</string>
+    <string name="plus_minus">+/-</string>
+    <string name="log">log10</string>
+    <string name="sqrt">sqrt(x)</string>
+    <string name="pow_2">x^2</string>
+    <string name="pow_3">x^3</string>
+    <string name="division">/</string>
+    <string name="dot">,</string>
+    <string name="percent">%</string>
+    <string name="factorial">!</string>
+</resources>
